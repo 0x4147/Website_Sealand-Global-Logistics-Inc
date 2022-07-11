@@ -1,0 +1,146 @@
+Layout
+----------------
+Landing page
+	Logo - top left
+	Nav - Top right
+	Description - Middle
+	Image - Background
+
+Services
+	With images in icons and descriptions (https://fml-inc.com/)
+
+About us
+	https://fml-inc.com/
+	Why choose us
+
+	It would have a header with an image in the background and the heading in the middle reading About us
+	right below owould have a dark background and text on about us
+	
+	Also, have why choose us like fml.
+	you can have sections with icons and details like services
+
+	
+
+
+Contact
+	Contact details
+		address
+		Phone
+		email
+	Contact form
+
+	
+
+
+
+fml-inc.com
+emotrans-global.com
+tracking-cross border
+courier
+
+
+
+What are your goals?
+------------------------------
+
+generate leads
+communicate experience, integrity, and personal service
+showcase capabilites
+incetivize customers with specials
+
+
+What to have in website
+----------------------
+
+form to contact
+about page
+	Diplay general info about the company, including history, and team emmerbs phots and bios
+services
+	Full list of services offered along with descriptions and links to contact us for servicdes
+section where you can list specials?
+bio of the service provider
+project gallery
+
+
+
+HOw the site should be
+------------------------
+clean and professional
+customizable homepage
+footer with contact info n all pages
+
+
+Things to do to prepare
+---------------------------
+
+List goals for the website
+List what you should have in the website to achieve the goals
+Make an inventory spreadsheet
+Make folders so you can store assests in those folders
+
+
+----------------------------
+
+
+Accuracy - links to unbiased references
+
+real organization 
+
+trustrworthniess
+
+leasy to ncontact
+
+
+--------------------------
+
+Information rich sitres win - pricing is good - may be arange
+
+
+-------------------------
+
+List goals for the website
+	Attract more customers
+
+List what you should have in the website to achieve the goals
+	Services provided
+	Contact details
+
+
+
+Services
+	Key products and services in the home page
+
+Why choose us section
+	what seperates you from the rest? (location? cost? quality? what makes you diferetent?)
+		Location
+
+Have a news section? sales, summer operning hours? new locations, promotions.
+	can have a blog  - writing required
+
+
+About us section
+-------------------------
+
+trustworthness - show that you are real
+ real pictures to verify that you are a real business
+	how long you've been in buness 
+	how did you get here
+	key business partners - picures are good
+	qualifications
+	
+
+
+--------------------------------------------
+
+What the site needs
+
+Choose letter colors
+Center the middle
+background color for services
+See if there' a better design
+Finalize why choose us section
+Modifiy about us section
+Have contact form on the left and details on the wright
+See what needs to be on the footer
+
+
