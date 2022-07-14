@@ -1,3 +1,29 @@
+QUestions to ask
+----------------------------
+List goals for the website
+List what you should have in the website to achieve the goals
+Who are the customers?
+How do you usually gert new customer?
+What are the serives?
+What can you offer that others can't? Specialty?
+Do you have any ideas on what the logo should look like?
+
+
+
+
+Nex steps
+----------------------------
+Creating the logo
+Details about the services
+Add more animations
+Customize to highlight the reason to select them
+Contact info
+Set up email
+Buy domain
+
+
+
+
 Layout
 ----------------
 Landing page
@@ -30,8 +56,7 @@ Contact
 	Contact form
 
 	
-
-
+-----------------------------
 
 fml-inc.com
 emotrans-global.com
@@ -47,6 +72,7 @@ generate leads
 communicate experience, integrity, and personal service
 showcase capabilites
 incetivize customers with specials
+
 
 
 What to have in website
@@ -142,5 +168,8 @@ Finalize why choose us section
 Modifiy about us section
 Have contact form on the left and details on the wright
 See what needs to be on the footer
+
+
+-------------------------------------------
 
 
